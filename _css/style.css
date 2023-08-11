@@ -1,0 +1,75 @@
+nav#menu {
+   display: block;
+}
+
+nav#menu ul {
+
+   text-transform: uppercase;
+   list-style: none;
+   position: absolute;
+   left: 10px;
+   top: 5px;
+}
+
+nav#menu h1 {
+   display: none;
+}
+
+nav#menu li {
+   display: inline-block;
+   padding: 20px;
+
+}
+
+body {
+   /* background-color:black; */
+   margin: 0px;
+}
+
+header {
+   /* background-color:black; */
+   padding-top: 90px;
+   padding-bottom: 30px;
+   position: relative;
+}
+
+/* img{
+   position: absolute;
+   left: 550px;
+   width: 300px;
+} */
+#imagemfundo {
+   background-image: url(../imagens/praia-gta.png)
+}
+
+/* img {
+   position: absolute;
+   left: 500px;
+   top: 200px;
+   width: 350px;
+} */
+
+img#produtos {
+   left: 40px;
+   max-width: 150px;
+}
+
+#imagemfundop {
+   background-image: url(../imagens/cidadeeeeeee.jpg);
+   background-size: cover;
+   top: 700px;
+}
+
+#imgsobre {
+   background-image: url(../imagens/gta-5.png);
+   background-size: cover;
+   /* background-size: cover;
+      top: 700px; */
+   /* position: relative; */
+}
+h1, h2, h3{
+   color: white;
+}
+img#cartoes{
+   width: 300px;
+}
